@@ -1,0 +1,47 @@
+package herançadasilva
+
+public class imovel {
+
+private String endereço;
+
+private double valor;
+
+public imovel (int IdMovel, String endereço, double valor) }
+
+
+this.IdMovel;
+
+this.endereço=endereço;
+
+this.valor=valor;
+
+{
+
+public void getInfo
+
+System.out.println("ID:" + IdMovel);
+
+System.out.println("Endereço:" + endereço);
+
+System.out.println("Móvel:" + Movel);
+
+----------------------------------------------------------------------------------
+
+
+
+public class House extends imovel {
+
+private int Terreno; 
+
+public House(int IdMovel, String endereço, double valor, int Terreno;)
+
+super(IdMovel, endereço, valor);
+
+this.Terreno=Terreno
+ public void getInfo() {
+
+super.getInfo
+
+System.out.println(
+
+}
